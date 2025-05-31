@@ -131,8 +131,8 @@ We welcome contributions! Follow these steps to contribute:
 This project is licensed under the **MIT License**.
 
 ## 🐾 Connect With Us
-- **Project Link:** [ChatMe on GitHub](https://github.com/AdiPrasad22/ChatMe)
-- **Author:** [Aditya](https://github.com/AdiPrasad22)
+- **Project Link:** [ChatMe on GitHub](https://github.com/Akshat371/ChatMe)
+- **Author:** [Akshat](https://github.com/Akshat371)
 
 ---
 
